@@ -1,0 +1,9 @@
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\Bank .app\Bank .app\bin\Debug\Bank.app.exe.config
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\Bank .app\Bank .app\obj\Debug\Bank .app.csprojResolveAssemblyReference.cache
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\Bank .app\Bank .app\obj\Debug\Bank.app.Properties.Resources.resources
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\Bank .app\Bank .app\obj\Debug\Bank .app.csproj.GenerateResource.Cache
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\Bank .app\Bank .app\bin\Debug\Bank.app.exe
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\Bank .app\Bank .app\bin\Debug\Bank.app.pdb
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\Bank .app\Bank .app\obj\Debug\Bank.app.BankUI.resources
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\Bank .app\Bank .app\obj\Debug\Bank.app.exe
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\Bank .app\Bank .app\obj\Debug\Bank.app.pdb
